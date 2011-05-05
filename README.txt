@@ -14,7 +14,7 @@ Build Hadoop Snappy
 
   $ mvn package
 
-The build tarball is at target/hadoop-snappy-0.0.0.1-distro.tar.gz 
+The build tarball is at target/hadoop-snappy-0.0.1-distro.tar.gz 
 
  
 Install Hadoop Snappy in Hadoop
