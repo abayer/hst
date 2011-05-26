@@ -16,7 +16,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-snappy</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Hadoop Snappy</name>
     <description>Hadoop Snappy</description>
